@@ -1,0 +1,828 @@
+Comparison,Target,Name,MOA,Phase
+Immune system related pathways,ACTB,cytochalasin-B,microtubule inhibitor,Phase 2
+Immune system related pathways,ACVR1,ML347,ALK tyrosine kinase receptor inhibitor,Preclinical
+Immune system related pathways,ACVR1,LDN-212854,bone morphogenic protein inhibitor,Preclinical
+Immune system related pathways,ACVR1,dorsomorphin,AMPK inhibitor,Preclinical
+Immune system related pathways,ACVR1,LDN193189,bone morphogenic protein inhibitor,Preclinical
+Immune system related pathways,ACVR1,adenosine-triphosphate,adenosine receptor agonist,Phase 2
+Immune system related pathways,ACVR1,DMH1,ALK tyrosine kinase receptor inhibitor,Preclinical
+Immune system related pathways,ACVRL1,ML347,ALK tyrosine kinase receptor inhibitor,Preclinical
+Immune system related pathways,ACVRL1,adenosine-triphosphate,adenosine receptor agonist,Phase 2
+Immune system related pathways,AKT2,API-1,AKT inhibitor,Preclinical
+Immune system related pathways,AKT2,GSK2110183,AKT inhibitor,Phase 2
+Immune system related pathways,AKT2,AT7867,AKT inhibitor,Preclinical
+Immune system related pathways,AKT2,MK-2206,AKT inhibitor,Phase 2
+Immune system related pathways,AKT2,uprosertib,AKT inhibitor,Phase 2
+Immune system related pathways,AKT2,AT13148,protein kinase inhibitor,Phase 1
+Immune system related pathways,AKT2,ARQ-092,AKT inhibitor,Phase 1
+Immune system related pathways,AKT2,PHT-427,"AKT inhibitor, pyruvate dehydrogenase inhibitor",Preclinical
+Immune system related pathways,AKT2,AZD5363,AKT inhibitor,Phase 3
+Immune system related pathways,AKT2,GSK690693,AKT inhibitor,Phase 1
+Immune system related pathways,AKT2,GDC-0068,AKT inhibitor,Phase 3
+Immune system related pathways,ARAF,adenosine-triphosphate,adenosine receptor agonist,Phase 2
+Immune system related pathways,ATF2,ephedrine-(racemic),adrenergic receptor agonist,Launched
+Immune system related pathways,B2M,3-indolebutyric-acid,,Preclinical
+Immune system related pathways,BIRC2,GDC-0152,XIAP inhibitor,Phase 1
+Immune system related pathways,BIRC2,birinapant,XIAP inhibitor,Phase 2
+Immune system related pathways,BIRC2,SM-164,XIAP inhibitor,Preclinical
+Immune system related pathways,BIRC2,LCL-161,XIAP inhibitor,Phase 2
+Immune system related pathways,BIRC2,AZD5582,XIAP inhibitor,Preclinical
+Immune system related pathways,BMPR1A,ML347,ALK tyrosine kinase receptor inhibitor,Preclinical
+Immune system related pathways,BMPR1A,dorsomorphin,AMPK inhibitor,Preclinical
+Immune system related pathways,BMPR1A,LDN193189,bone morphogenic protein inhibitor,Preclinical
+Immune system related pathways,BMPR1B,dorsomorphin,AMPK inhibitor,Preclinical
+Immune system related pathways,BTK,GDC-0834,Bruton's tyrosine kinase (BTK) inhibitor,Phase 1
+Immune system related pathways,BTK,terreic-acid-(-),Bruton's tyrosine kinase (BTK) inhibitor,Preclinical
+Immune system related pathways,BTK,acalabrutinib,Bruton's tyrosine kinase (BTK) inhibitor,Launched
+Immune system related pathways,BTK,AVL-292,Bruton's tyrosine kinase (BTK) inhibitor,Phase 2
+Immune system related pathways,BTK,ONO-4059,Bruton's tyrosine kinase (BTK) inhibitor,Phase 1
+Immune system related pathways,BTK,CNX-774,Bruton's tyrosine kinase (BTK) inhibitor,Preclinical
+Immune system related pathways,BTK,olmutinib,"Bruton's tyrosine kinase (BTK) inhibitor, EGFR inhibitor",Launched
+Immune system related pathways,BTK,PCI-29732,Bruton's tyrosine kinase (BTK) inhibitor,Preclinical
+Immune system related pathways,BTK,ibrutinib,Bruton's tyrosine kinase (BTK) inhibitor,Launched
+Immune system related pathways,BTK,LFM-A13,Bruton's tyrosine kinase (BTK) inhibitor,Preclinical
+Immune system related pathways,CACNA1H,anandamide,cannabinoid receptor agonist,Phase 2
+Immune system related pathways,CACNA1H,ethosuximide,succinimide antiepileptic,Launched
+Immune system related pathways,CACNA1H,amiodarone,potassium channel blocker,Launched
+Immune system related pathways,CACNA1H,flunarizine,calcium channel blocker,Launched
+Immune system related pathways,CACNA1H,nifedipine,calcium channel blocker,Launched
+Immune system related pathways,CACNA1H,trimethadione,oxazolidine antiepileptic,Launched
+Immune system related pathways,CACNA1H,ABT-639,calcium channel blocker,Phase 2
+Immune system related pathways,CACNA1H,spironolactone,mineralocorticoid receptor antagonist,Launched
+Immune system related pathways,CACNA1H,ML218,T-type calcium channel blocker,Preclinical
+Immune system related pathways,CACNA1H,methsuximide,T-type calcium channel blocker,Launched
+Immune system related pathways,CACNA1H,zonisamide,"sodium channel blocker, T-type calcium channel blocker",Launched
+Immune system related pathways,CACNA1H,gabapentin,calcium channel blocker,Launched
+Immune system related pathways,CACNA2D1,amlodipine,calcium channel blocker,Launched
+Immune system related pathways,CACNA2D1,Z160,N-type calcium channel blocker,Phase 2
+Immune system related pathways,CACNA2D1,diltiazem,calcium channel blocker,Launched
+Immune system related pathways,CACNA2D1,nifedipine,calcium channel blocker,Launched
+Immune system related pathways,CACNA2D1,spironolactone,mineralocorticoid receptor antagonist,Launched
+Immune system related pathways,CACNA2D1,lercanidipine,calcium channel blocker,Launched
+Immune system related pathways,CACNA2D1,isradipine,calcium channel blocker,Launched
+Immune system related pathways,CACNA2D1,nitrendipine,calcium channel blocker,Launched
+Immune system related pathways,CACNA2D1,gabapentin,calcium channel blocker,Launched
+Immune system related pathways,CACNA2D3,spironolactone,mineralocorticoid receptor antagonist,Launched
+Immune system related pathways,CACNA2D3,gabapentin,calcium channel blocker,Launched
+Immune system related pathways,CACNB2,gabapentin,calcium channel blocker,Launched
+Immune system related pathways,CACNB2,dronedarone,adrenergic receptor antagonist,Launched
+Immune system related pathways,CACNB2,spironolactone,mineralocorticoid receptor antagonist,Launched
+Immune system related pathways,CACNB2,verapamil,calcium channel blocker,Launched
+Immune system related pathways,CACNB2,nifedipine,calcium channel blocker,Launched
+Immune system related pathways,CASP8,aloe-emodin,anticancer agent,Preclinical
+Immune system related pathways,CCL8,pidolic-acid,,Launched
+Immune system related pathways,CCL8,bindarit,NFkB pathway inhibitor,Phase 2
+Immune system related pathways,CDH5,fosbretabulin,"tubulin polymerization inhibitor, VE-cadherin antagonist",Phase 3
+Immune system related pathways,CREB1,naloxone,opioid receptor antagonist,Launched
+Immune system related pathways,CREB1,adenosine-phosphate,adenosine receptor agonist,Launched
+Immune system related pathways,CSF1,axitinib,"PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,CSF1,linifanib,"PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,CSF1R,pexidartinib,tyrosine kinase inhibitor,Launched
+Immune system related pathways,CSF1R,KI-20227,c-Fms inhibitor,Preclinical
+Immune system related pathways,CSF1R,imatinib,"Bcr-Abl kinase inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor",Launched
+Immune system related pathways,CSF1R,sunitinib,"FLT3 inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,CSF1R,AC-710,PDGFR tyrosine kinase receptor inhibitor,Preclinical
+Immune system related pathways,CSF1R,dovitinib,"EGFR inhibitor, FGFR inhibitor, FLT3 inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,CSF1R,cediranib,"KIT inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,CSF1R,quizartinib,FLT3 inhibitor,Phase 3
+Immune system related pathways,CSF1R,crenolanib,PDGFR tyrosine kinase receptor inhibitor,Phase 3
+Immune system related pathways,CSF1R,linifanib,"PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,CSF1R,PLX647,receptor tyrosine protein kinase inhibitor,Preclinical
+Immune system related pathways,CSF1R,pazopanib,"KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,CSF1R,GTP-14564,"FLT3 inhibitor, tyrosine kinase inhibitor",Preclinical
+Immune system related pathways,CSF1R,GW-2580,cFMS kinase inhibitor,Preclinical
+Immune system related pathways,CSF1R,tandutinib,"FLT3 inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor",Phase 2
+Immune system related pathways,CTSB,loxistatin-acid,cysteine peptidase inhibitor,Preclinical
+Immune system related pathways,CTSB,cathepsin-inhibitor-1,cathepsin inhibitor,Preclinical
+Immune system related pathways,CTSB,pepstatin,aspartic protease inhibitor,Preclinical
+Immune system related pathways,CTSB,VBY-825,cathepsin inhibitor,Preclinical
+Immune system related pathways,CTSK,odanacatib,cathepsin inhibitor,Phase 3
+Immune system related pathways,CTSK,boceprevir,HCV inhibitor,Launched
+Immune system related pathways,CTSK,balicatib,cathepsin inhibitor,Phase 2
+Immune system related pathways,CYBA,dextromethorphan,"glutamate receptor antagonist, sigma receptor agonist",Launched
+Immune system related pathways,DNM1L,dynasore,dynamin inhibitor,Preclinical
+Immune system related pathways,FLT1,pazopanib,"KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT1,sunitinib,"FLT3 inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT1,lucitanib,"FGFR inhibitor, VEGFR inhibitor",Phase 2
+Immune system related pathways,FLT1,cediranib,"KIT inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,FLT1,linifanib,"PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,FLT1,tivozanib,VEGFR inhibitor,Launched
+Immune system related pathways,FLT1,vandetanib,"EGFR inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT1,dorsomorphin,AMPK inhibitor,Preclinical
+Immune system related pathways,FLT1,PD-173074,"FGFR inhibitor, VEGFR inhibitor",Preclinical
+Immune system related pathways,FLT1,sorafenib,"FLT3 inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, RAF inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT1,regorafenib,"FGFR inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, RAF inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT1,ZM-306416,"Abl kinase inhibitor, SRC inhibitor, VEGFR inhibitor",Preclinical
+Immune system related pathways,FLT1,toceranib,protein tyrosine kinase inhibitor,Launched
+Immune system related pathways,FLT1,axitinib,"PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT1,brivanib,"FGFR inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,FLT1,nintedanib,"FGFR inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT1,vatalanib,"KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,FLT1,motesanib,"KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,FLT1,TG-100801,"SRC inhibitor, VEGFR inhibitor",Phase 2
+Immune system related pathways,FLT1,KRN-633,VEGFR inhibitor,Preclinical
+Immune system related pathways,FLT1,OSI-930,"KIT inhibitor, VEGFR inhibitor",Phase 1
+Immune system related pathways,FLT1,dovitinib,"EGFR inhibitor, FGFR inhibitor, FLT3 inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,FLT1,semaxanib,VEGFR inhibitor,Phase 3
+Immune system related pathways,FLT1,foretinib,VEGFR inhibitor,Phase 2
+Immune system related pathways,FLT4,regorafenib,"FGFR inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, RAF inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT4,nintedanib,"FGFR inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT4,tivozanib,VEGFR inhibitor,Launched
+Immune system related pathways,FLT4,cediranib,"KIT inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,FLT4,linifanib,"PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,FLT4,vatalanib,"KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,FLT4,sunitinib,"FLT3 inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT4,PD-173074,"FGFR inhibitor, VEGFR inhibitor",Preclinical
+Immune system related pathways,FLT4,XL647,"EGFR inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,FLT4,lenvatinib,"FGFR inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT4,vandetanib,"EGFR inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT4,motesanib,"KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,FLT4,dovitinib,"EGFR inhibitor, FGFR inhibitor, FLT3 inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Phase 3
+Immune system related pathways,FLT4,ZM-306416,"Abl kinase inhibitor, SRC inhibitor, VEGFR inhibitor",Preclinical
+Immune system related pathways,FLT4,axitinib,"PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT4,pazopanib,"KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT4,sorafenib,"FLT3 inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, RAF inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,FLT4,KRN-633,VEGFR inhibitor,Preclinical
+Immune system related pathways,FLT4,foretinib,VEGFR inhibitor,Phase 2
+Immune system related pathways,FLT4,SAR131675,VEGFR inhibitor,Preclinical
+Immune system related pathways,FLT4,TG-100801,"SRC inhibitor, VEGFR inhibitor",Phase 2
+Immune system related pathways,FOS,ephedrine-(racemic),adrenergic receptor agonist,Launched
+Immune system related pathways,GHR,ibutamoren,growth hormone secretagogue receptor agonist,Phase 2
+Immune system related pathways,HSPA1A,VER-155008,HSP inhibitor,Preclinical
+Immune system related pathways,HSPA1A,elesclomol,oxidative stress inducer,Phase 3
+Immune system related pathways,HSPA1A,pifithrin-mu,HSP inhibitor,Preclinical
+Immune system related pathways,HSPA1A,bicyclol,NFkB pathway inhibitor,Launched
+Immune system related pathways,ICAM1,hyaluronic-acid,,Launched
+Immune system related pathways,ICAM1,polydatin,ICAM1 expression inhibitor,Phase 2
+Immune system related pathways,ICAM1,BMS-688521,"ICAM1 antagonist, leukocyte function-associated antigen receptor antagonist",Preclinical
+Immune system related pathways,ICAM1,BIRT-377,lymphocyte function-associated antigen negative modulator,Preclinical
+Immune system related pathways,ICAM1,RWJ-50271,integrin inhibitor,Preclinical
+Immune system related pathways,ICAM1,A205804,ICAM1 expression inhibitor,Preclinical
+Immune system related pathways,IL12A,STA-5326,interleukin synthesis inhibitor,Phase 2
+Immune system related pathways,IL12A,APY0201,phosphoinositide dependent kinase inhibitor,Preclinical
+Immune system related pathways,INPP5D,AS-1949490,SHIP2 phosphatase inhibitor,Preclinical
+Immune system related pathways,IRAK4,AS-2444697,interleukin inhibitor,Preclinical
+Immune system related pathways,ITGB1,TCS-2314,integrin inhibitor,Preclinical
+Immune system related pathways,ITGB1,BIO-1211,integrin antagonist,Phase 2
+Immune system related pathways,ITGB1,BIO-5192,integrin inhibitor,Preclinical
+Immune system related pathways,ITGB1,TC-I-15,integrin inhibitor,Preclinical
+Immune system related pathways,ITGB1,BTT-3033,integrin inhibitor,Preclinical
+Immune system related pathways,ITGB1,SB-683698,integrin antagonist,Phase 1
+Immune system related pathways,ITGB1,ATN-161,integrin antagonist,Phase 2
+Immune system related pathways,JAK1,ZM-39923,JAK inhibitor,Preclinical
+Immune system related pathways,JAK1,AZD1480,JAK inhibitor,Phase 1
+Immune system related pathways,JAK1,cyt387,JAK inhibitor,Phase 3
+Immune system related pathways,JAK1,peficitinib,JAK inhibitor,Launched
+Immune system related pathways,JAK1,solcitinib,JAK inhibitor,Phase 1
+Immune system related pathways,JAK1,fedratinib,"FLT3 inhibitor, JAK inhibitor",Launched
+Immune system related pathways,JAK1,tofacitinib,JAK inhibitor,Launched
+Immune system related pathways,JAK1,curcumol,JAK inhibitor,Phase 1
+Immune system related pathways,JAK1,pacritinib,"FLT3 inhibitor, JAK inhibitor",Phase 3
+Immune system related pathways,JAK1,ruxolitinib,JAK inhibitor,Launched
+Immune system related pathways,JAK1,WHI-P154,JAK inhibitor,Preclinical
+Immune system related pathways,JAK1,baricitinib,JAK inhibitor,Launched
+Immune system related pathways,JAK1,filgotinib,JAK inhibitor,Phase 3
+Immune system related pathways,JAK1,itacitinib,JAK inhibitor,Phase 3
+Immune system related pathways,JAK1,ruxolitinib-(S),JAK inhibitor,Preclinical
+Immune system related pathways,JAK1,XL019,JAK inhibitor,Phase 1
+Immune system related pathways,JAK2,CKD-712,NFkB pathway inhibitor,Phase 1
+Immune system related pathways,JAK2,filgotinib,JAK inhibitor,Phase 3
+Immune system related pathways,JAK2,WHI-P154,JAK inhibitor,Preclinical
+Immune system related pathways,JAK2,peficitinib,JAK inhibitor,Launched
+Immune system related pathways,JAK2,AG-490,"EGFR inhibitor, JAK inhibitor",Preclinical
+Immune system related pathways,JAK2,NVP-BSK805,JAK inhibitor,Preclinical
+Immune system related pathways,JAK2,RGB-286638,CDK inhibitor,Phase 1
+Immune system related pathways,JAK2,"1,2,3,4,5,6-hexabromocyclohexane",JAK inhibitor,Preclinical
+Immune system related pathways,JAK2,atiprimod,"JAK inhibitor, STAT inhibitor",Phase 2
+Immune system related pathways,JAK2,fedratinib,"FLT3 inhibitor, JAK inhibitor",Launched
+Immune system related pathways,JAK2,AZD1480,JAK inhibitor,Phase 1
+Immune system related pathways,JAK2,thiram,,Launched
+Immune system related pathways,JAK2,AT-9283,"Aurora kinase inhibitor, JAK inhibitor",Phase 2
+Immune system related pathways,JAK2,TG-101209,JAK inhibitor,Preclinical
+Immune system related pathways,JAK2,cyt387,JAK inhibitor,Phase 3
+Immune system related pathways,JAK2,baricitinib,JAK inhibitor,Launched
+Immune system related pathways,JAK2,pacritinib,"FLT3 inhibitor, JAK inhibitor",Phase 3
+Immune system related pathways,JAK2,AZ960,JAK inhibitor,Preclinical
+Immune system related pathways,JAK2,ruxolitinib,JAK inhibitor,Launched
+Immune system related pathways,JAK2,LY2784544,JAK inhibitor,Phase 2
+Immune system related pathways,JAK2,tofacitinib,JAK inhibitor,Launched
+Immune system related pathways,JAK2,curcumol,JAK inhibitor,Phase 1
+Immune system related pathways,JAK2,XL019,JAK inhibitor,Phase 1
+Immune system related pathways,JAK2,CEP-33779,JAK inhibitor,Preclinical
+Immune system related pathways,JAK2,WP1130,deubiquitinase inhibitor,Preclinical
+Immune system related pathways,JAK2,ruxolitinib-(S),JAK inhibitor,Preclinical
+Immune system related pathways,JAK3,TCS-21311,JAK inhibitor,Preclinical
+Immune system related pathways,JAK3,filgotinib,JAK inhibitor,Phase 3
+Immune system related pathways,JAK3,pacritinib,"FLT3 inhibitor, JAK inhibitor",Phase 3
+Immune system related pathways,JAK3,peficitinib,JAK inhibitor,Launched
+Immune system related pathways,JAK3,ZM-39923,JAK inhibitor,Preclinical
+Immune system related pathways,JAK3,LY2784544,JAK inhibitor,Phase 2
+Immune system related pathways,JAK3,fedratinib,"FLT3 inhibitor, JAK inhibitor",Launched
+Immune system related pathways,JAK3,TG-101209,JAK inhibitor,Preclinical
+Immune system related pathways,JAK3,JAK3-inhibitor-V,JAK inhibitor,Preclinical
+Immune system related pathways,JAK3,AZD1480,JAK inhibitor,Phase 1
+Immune system related pathways,JAK3,ruxolitinib,JAK inhibitor,Launched
+Immune system related pathways,JAK3,AG-490,"EGFR inhibitor, JAK inhibitor",Preclinical
+Immune system related pathways,JAK3,WHI-P154,JAK inhibitor,Preclinical
+Immune system related pathways,JAK3,curcumol,JAK inhibitor,Phase 1
+Immune system related pathways,JAK3,AT-9283,"Aurora kinase inhibitor, JAK inhibitor",Phase 2
+Immune system related pathways,JAK3,tofacitinib,JAK inhibitor,Launched
+Immune system related pathways,JAK3,cyt387,JAK inhibitor,Phase 3
+Immune system related pathways,JAK3,XL019,JAK inhibitor,Phase 1
+Immune system related pathways,JUN,ephedrine-(racemic),adrenergic receptor agonist,Launched
+Immune system related pathways,JUN,TWS-119,glycogen synthase kinase inhibitor,Preclinical
+Immune system related pathways,JUN,vinblastine,"microtubule inhibitor, tubulin polymerization inhibitor",Launched
+Immune system related pathways,JUN,irbesartan,angiotensin receptor antagonist,Launched
+Immune system related pathways,JUN,T-5224,AP inhibitor,Phase 2
+Immune system related pathways,JUN,arsenic-trioxide,apoptosis stimulant,Launched
+Immune system related pathways,JUN,SP-100030,NFkB pathway inhibitor,Preclinical
+Immune system related pathways,MALT1,mepazine,MALT1 inhibitor (JH),Phase 2
+Immune system related pathways,MAP3K1,PD-184352,MEK inhibitor,Phase 2
+Immune system related pathways,MAP3K1,AZD8330,MEK inhibitor,Phase 1
+Immune system related pathways,MAP3K6,TC-ASK-10,MAP kinase inhibitor,Preclinical
+Immune system related pathways,MAPK11,EO-1428,p38 MAPK inhibitor,Preclinical
+Immune system related pathways,MAPK11,VX-702,p38 MAPK inhibitor,Phase 2
+Immune system related pathways,MAPK11,doramapimod,p38 MAPK inhibitor,Phase 2
+Immune system related pathways,MAPK11,U-0126,MEK inhibitor,Preclinical
+Immune system related pathways,MAPK11,SB-239063,p38 MAPK inhibitor,Preclinical
+Immune system related pathways,MAPK11,talmapimod,p38 MAPK inhibitor,Phase 2
+Immune system related pathways,MAPK11,SB-203580,p38 MAPK inhibitor,Preclinical
+Immune system related pathways,MAPK11,SB-202190,p38 MAPK inhibitor,Preclinical
+Immune system related pathways,MAPK11,VX-745,p38 MAPK inhibitor,Phase 2
+Immune system related pathways,MAPK11,ML3403,MAP kinase inhibitor,Preclinical
+Immune system related pathways,MAPK11,KN-62,"calcium/calmodulin dependent protein kinase inhibitor, purinergic receptor antagonist",Preclinical
+Immune system related pathways,MAPK11,bisindolylmaleimide-IX,PKC inhibitor,Preclinical
+Immune system related pathways,MAPK11,AMG-548,MAP kinase inhibitor,Phase 1
+Immune system related pathways,MAPK11,"4,5,6,7-tetrabromobenzotriazole",casein kinase inhibitor,Preclinical
+Immune system related pathways,MAPK11,regorafenib,"FGFR inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, RAF inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,MAPK11,LY294002,"DNA dependent protein kinase inhibitor, mTOR inhibitor, phosphodiesterase inhibitor, PI3K inhibitor, PLK inhibitor",Preclinical
+Immune system related pathways,MAPK11,PD-98059,MEK inhibitor,Preclinical
+Immune system related pathways,MAPK11,PH-797804,p38 MAPK inhibitor,Phase 2
+Immune system related pathways,MAPK12,U-0126,MEK inhibitor,Preclinical
+Immune system related pathways,MAPK12,ML3403,MAP kinase inhibitor,Preclinical
+Immune system related pathways,MAPK12,"4,5,6,7-tetrabromobenzotriazole",casein kinase inhibitor,Preclinical
+Immune system related pathways,MAPK12,VX-745,p38 MAPK inhibitor,Phase 2
+Immune system related pathways,MAPK12,AMG-548,MAP kinase inhibitor,Phase 1
+Immune system related pathways,MAPK12,doramapimod,p38 MAPK inhibitor,Phase 2
+Immune system related pathways,MAPK12,SB-202190,p38 MAPK inhibitor,Preclinical
+Immune system related pathways,MAPK12,bisindolylmaleimide-IX,PKC inhibitor,Preclinical
+Immune system related pathways,MAPK12,LY294002,"DNA dependent protein kinase inhibitor, mTOR inhibitor, phosphodiesterase inhibitor, PI3K inhibitor, PLK inhibitor",Preclinical
+Immune system related pathways,MAPK12,KN-62,"calcium/calmodulin dependent protein kinase inhibitor, purinergic receptor antagonist",Preclinical
+Immune system related pathways,MAPK12,PD-98059,MEK inhibitor,Preclinical
+Immune system related pathways,MAPK12,VX-702,p38 MAPK inhibitor,Phase 2
+Immune system related pathways,MAPK12,SB-203580,p38 MAPK inhibitor,Preclinical
+Immune system related pathways,MAPK3,ravoxertinib,ERK1 and ERK2 phosphorylation inhibitor,Phase 1
+Immune system related pathways,MAPK3,GDC-0994,MAP kinase inhibitor,Phase 1
+Immune system related pathways,MAPK3,CID-5458317,MAP kinase phosphatase inhibitor,Preclinical
+Immune system related pathways,MAPK3,FR-180204,MAP kinase inhibitor,Preclinical
+Immune system related pathways,MAPK3,arsenic-trioxide,apoptosis stimulant,Launched
+Immune system related pathways,MAPK3,purvalanol-B,tyrosine kinase inhibitor,Preclinical
+Immune system related pathways,MAPK8,pyrazolanthrone,JNK inhibitor,Preclinical
+Immune system related pathways,MAPK8,U-0126,MEK inhibitor,Preclinical
+Immune system related pathways,MAPK8,SR-3306,JNK inhibitor,Preclinical
+Immune system related pathways,MAPK8,SB-203580,p38 MAPK inhibitor,Preclinical
+Immune system related pathways,MAPK8,KN-62,"calcium/calmodulin dependent protein kinase inhibitor, purinergic receptor antagonist",Preclinical
+Immune system related pathways,MAPK8,antagonist-g,neuropeptide receptor antagonist,Phase 1
+Immune system related pathways,MAPK8,PD-98059,MEK inhibitor,Preclinical
+Immune system related pathways,MAPK8,PGL5001,JNK inhibitor,Phase 2
+Immune system related pathways,MAPK8,SU3327,JNK inhibitor,Preclinical
+Immune system related pathways,MAPK8,SB-202190,p38 MAPK inhibitor,Preclinical
+Immune system related pathways,MAPK8,CC-401,JNK inhibitor,Phase 1
+Immune system related pathways,MAPK8,BI-78D3,JNK inhibitor,Preclinical
+Immune system related pathways,MAPK8,"4,5,6,7-tetrabromobenzotriazole",casein kinase inhibitor,Preclinical
+Immune system related pathways,MAPK8,LY294002,"DNA dependent protein kinase inhibitor, mTOR inhibitor, phosphodiesterase inhibitor, PI3K inhibitor, PLK inhibitor",Preclinical
+Immune system related pathways,MAPK8,bisindolylmaleimide-IX,PKC inhibitor,Preclinical
+Immune system related pathways,MAPK8IP1,pyrazolanthrone,JNK inhibitor,Preclinical
+Immune system related pathways,MAPT,docetaxel,tubulin polymerization inhibitor,Launched
+Immune system related pathways,MAPT,leucomethylene-blue,"nitric oxide production inhibitor, tau aggregation inhibitor",Phase 3
+Immune system related pathways,MAPT,paclitaxel,tubulin polymerization inhibitor,Launched
+Immune system related pathways,MKNK1,dorsomorphin,AMPK inhibitor,Preclinical
+Immune system related pathways,MKNK1,CGP-57380,MAP kinase inhibitor,Preclinical
+Immune system related pathways,MMP13,cipemastat,metalloproteinase inhibitor,Phase 3
+Immune system related pathways,MMP13,CP-471474,matrix metalloprotease inhibitor,Preclinical
+Immune system related pathways,MMP13,ilomastat,matrix metalloprotease inhibitor,Phase 3
+Immune system related pathways,MMP13,UK-356618,metalloproteinase inhibitor,Preclinical
+Immune system related pathways,MMP13,marimastat,matrix metalloprotease inhibitor,Phase 3
+Immune system related pathways,MMP13,SD-2590,matrix metalloprotease inhibitor,Preclinical
+Immune system related pathways,MMP13,CTS-1027,metalloproteinase inhibitor,Phase 2
+Immune system related pathways,MMP13,apratastat,"matrix metalloprotease inhibitor, tumor necrosis factor production inhibitor",Phase 2
+Immune system related pathways,MMP13,PD-166793,"collagenase inhibitor, metalloproteinase inhibitor",Preclinical
+Immune system related pathways,MMP13,WAY-170523,metalloproteinase inhibitor,Preclinical
+Immune system related pathways,MMP13,curcumin,"cyclooxygenase inhibitor, histone acetyltransferase inhibitor, lipoxygenase inhibitor, NFkB pathway inhibitor",Launched
+Immune system related pathways,MMP14,UK-356618,metalloproteinase inhibitor,Preclinical
+Immune system related pathways,MMP14,marimastat,matrix metalloprotease inhibitor,Phase 3
+Immune system related pathways,MMP14,ilomastat,matrix metalloprotease inhibitor,Phase 3
+Immune system related pathways,MMP2,CTS-1027,metalloproteinase inhibitor,Phase 2
+Immune system related pathways,MMP2,UK-356618,metalloproteinase inhibitor,Preclinical
+Immune system related pathways,MMP2,cipemastat,metalloproteinase inhibitor,Phase 3
+Immune system related pathways,MMP2,beta-elemene,apoptosis stimulant,Launched
+Immune system related pathways,MMP2,halofuginone,collagenase inhibitor,Launched
+Immune system related pathways,MMP2,ilomastat,matrix metalloprotease inhibitor,Phase 3
+Immune system related pathways,MMP2,tiludronate,"bone resorption inhibitor, osteoclast inhibitor",Launched
+Immune system related pathways,MMP2,captopril,angiotensin converting enzyme inhibitor,Launched
+Immune system related pathways,MMP2,PD-166793,"collagenase inhibitor, metalloproteinase inhibitor",Preclinical
+Immune system related pathways,MMP2,CP-471474,matrix metalloprotease inhibitor,Preclinical
+Immune system related pathways,MMP2,marimastat,matrix metalloprotease inhibitor,Phase 3
+Immune system related pathways,MMP2,SD-2590,matrix metalloprotease inhibitor,Preclinical
+Immune system related pathways,MMP2,batimastat,matrix metalloprotease inhibitor,Phase 3
+Immune system related pathways,MMP3,CTS-1027,metalloproteinase inhibitor,Phase 2
+Immune system related pathways,MMP3,cipemastat,metalloproteinase inhibitor,Phase 3
+Immune system related pathways,MMP3,marimastat,matrix metalloprotease inhibitor,Phase 3
+Immune system related pathways,MMP3,PD-166793,"collagenase inhibitor, metalloproteinase inhibitor",Preclinical
+Immune system related pathways,MMP3,ilomastat,matrix metalloprotease inhibitor,Phase 3
+Immune system related pathways,MMP3,UK-356618,metalloproteinase inhibitor,Preclinical
+Immune system related pathways,MMP3,CP-471474,matrix metalloprotease inhibitor,Preclinical
+Immune system related pathways,NCF4,dextromethorphan,"glutamate receptor antagonist, sigma receptor agonist",Launched
+Immune system related pathways,NFKBIA,aspirin,cyclooxygenase inhibitor,Launched
+Immune system related pathways,NFKBIA,BAY-11-7085,NFkB pathway inhibitor,Preclinical
+Immune system related pathways,NFKBIA,GS-143,ubiquitin ligase inhibitor,Preclinical
+Immune system related pathways,NOS3,3-bromo-7-nitroindazole,nitric oxide synthase inhibitor,Preclinical
+Immune system related pathways,NOS3,asymmetrical-dimethylarginine,nitric oxide synthase inhibitor,Phase 1
+Immune system related pathways,NOS3,sapropterin,phenylalanine 4-hydroxylase stimulant,Launched
+Immune system related pathways,NOS3,diphenyleneiodonium,nitric oxide synthase inhibitor,Preclinical
+Immune system related pathways,NOS3,fenoxaprop-p-ethyl,,Preclinical
+Immune system related pathways,NOS3,L-NIL,nitric oxide synthase inhibitor,Preclinical
+Immune system related pathways,NOS3,1400W,nitric oxide synthase inhibitor,Preclinical
+Immune system related pathways,NOS3,C11-Acetate,,Phase 3
+Immune system related pathways,NOS3,L-arginine,nitric oxide precursor,Launched
+Immune system related pathways,NOS3,7-nitroindazole,nitric oxide synthase inhibitor,Preclinical
+Immune system related pathways,NOS3,targinine,nitric oxide synthase inhibitor,Phase 3
+Immune system related pathways,NOS3,S-isopropylisothiourea,nitric oxide synthase inhibitor,Preclinical
+Immune system related pathways,NOS3,L-citrulline,nitric oxide stimulant,Launched
+Immune system related pathways,NOS3,hexylene-glycol,,Preclinical
+Immune system related pathways,NOS3,EIT-hydrobromide,nitric oxide synthase inhibitor,Preclinical
+Immune system related pathways,NOS3,"cis-exo-camphanediol-2,3",nitric oxide stimulant,Phase 1
+Immune system related pathways,NOS3,NG-nitro-arginine,nitric oxide synthase inhibitor,Phase 1
+Immune system related pathways,NRAS,lonafarnib,farnesyltransferase inhibitor,Phase 3
+Immune system related pathways,PIK3CD,wortmannin,PI3K inhibitor,Preclinical
+Immune system related pathways,PIK3CD,PIK-293,PI3K inhibitor,Preclinical
+Immune system related pathways,PIK3CD,caffeine,"adenosine receptor antagonist, phosphodiesterase inhibitor",Launched
+Immune system related pathways,PIK3CD,copanlisib,PI3K inhibitor,Launched
+Immune system related pathways,PIK3CD,SB-2343,"mTOR inhibitor, PI3K inhibitor",Phase 1
+Immune system related pathways,PIK3CD,LY294002,"DNA dependent protein kinase inhibitor, mTOR inhibitor, phosphodiesterase inhibitor, PI3K inhibitor, PLK inhibitor",Preclinical
+Immune system related pathways,PIK3CD,GDC-0941,PI3K inhibitor,Phase 2
+Immune system related pathways,PIK3CD,PI-103,"mTOR inhibitor, PI3K inhibitor",Preclinical
+Immune system related pathways,PIK3CD,acalisib,PI3K inhibitor,Phase 1
+Immune system related pathways,PIK3CD,AZD6482,PI3K inhibitor,Phase 1
+Immune system related pathways,PIK3CD,CH5132799,PI3K inhibitor,Phase 1
+Immune system related pathways,PIK3CD,PIK-294,PI3K inhibitor,Preclinical
+Immune system related pathways,PIK3CD,PIK-75,"DNA protein kinase inhibitor, PI3K inhibitor",Preclinical
+Immune system related pathways,PIK3CD,duvelisib,PI3K inhibitor,Launched
+Immune system related pathways,PIK3CD,alpelisib,PI3K inhibitor,Launched
+Immune system related pathways,PIK3CD,idelalisib,PI3K inhibitor,Launched
+Immune system related pathways,PIK3CD,AZD8186,PI3K inhibitor,Phase 1
+Immune system related pathways,PIK3CD,MLN0128,mTOR inhibitor,Phase 2
+Immune system related pathways,PIK3CD,ETP-45658,PI3K inhibitor,Preclinical
+Immune system related pathways,PIK3CD,XL147,PI3K inhibitor,Phase 2
+Immune system related pathways,PIK3CD,GSK2126458,"mTOR inhibitor, PI3K inhibitor",Phase 1
+Immune system related pathways,PIK3CD,NVP-BEZ235,"mTOR inhibitor, PI3K inhibitor",Phase 3
+Immune system related pathways,PIK3CD,AMG-319,PI3K inhibitor,Phase 2
+Immune system related pathways,PIK3CD,AZD8835,PI3K inhibitor,Phase 1
+Immune system related pathways,PIK3CD,AMG319,PI3K inhibitor,Phase 2
+Immune system related pathways,PIK3CD,GDC-0980,"mTOR inhibitor, PI3K inhibitor",Phase 2
+Immune system related pathways,PIK3CD,TGX-221,PI3K inhibitor,Preclinical
+Immune system related pathways,PIK3CD,PP-121,protein tyrosine kinase inhibitor,Preclinical
+Immune system related pathways,PLAU,amiloride,sodium channel blocker,Launched
+Immune system related pathways,PLAU,mexiletine,sodium channel blocker,Launched
+Immune system related pathways,PLAU,BC-11,urokinase inhibitor,Preclinical
+Immune system related pathways,PLCB2,m-3M3FBS,phospholipase activator,Preclinical
+Immune system related pathways,PLCG2,m-3M3FBS,phospholipase activator,Preclinical
+Immune system related pathways,PRKCB,sotrastaurin,PKC inhibitor,Phase 2
+Immune system related pathways,PRKCB,ellagic-acid,"glutathione transferase inhibitor, non-nucleoside reverse transcriptase inhibitor",Phase 2
+Immune system related pathways,PRKCB,go-6983,protein kinase inhibitor,Preclinical
+Immune system related pathways,PRKCB,enzastaurin,PKC inhibitor,Phase 3
+Immune system related pathways,PRKCB,7-hydroxystaurosporine,"CDK inhibitor, CHK inhibitor, PKC inhibitor",Phase 2
+Immune system related pathways,PRKCB,tamoxifen,"estrogen receptor antagonist, selective estrogen receptor modulator (SERM)",Launched
+Immune system related pathways,PRKCB,ingenol-mebutate,PKC activator,Launched
+Immune system related pathways,PRKCB,vitamin-E,"LDL oxidation inhibitor, PKC inhibitor",Launched
+Immune system related pathways,PRKCB,CGP-53353,"EGFR inhibitor, PKC inhibitor",Preclinical
+Immune system related pathways,PTK2B,PF-431396,focal adhesion kinase inhibitor,Preclinical
+Immune system related pathways,PTK2B,PF-562271,focal adhesion kinase inhibitor,Phase 1
+Immune system related pathways,PTK2B,leflunomide,"dihydroorotate dehydrogenase inhibitor, PDGFR tyrosine kinase receptor inhibitor",Launched
+Immune system related pathways,RAC3,EHop-016,Ras GTPase inhibitor,Preclinical
+Immune system related pathways,RAPGEF3,CE3F4,rap guanine nucleotide exchange factor inhibitor,Preclinical
+Immune system related pathways,RAPGEF3,ESI-09,EPAC inhibitor,Preclinical
+Immune system related pathways,RELA,BAY-11-7082,NFkB pathway inhibitor,Preclinical
+Immune system related pathways,RELA,NFKB-activation-inhibitor-II,NFkB pathway inhibitor,Preclinical
+Immune system related pathways,RELA,acetylcysteine,mucolytic agent,Launched
+Immune system related pathways,RELA,bortezomib,"NFkB pathway inhibitor, proteasome inhibitor",Launched
+Immune system related pathways,RELA,parthenolide-(alternate-stereo),NFkB pathway inhibitor,Preclinical
+Immune system related pathways,RELA,triptolide,RNA polymerase inhibitor,Phase 3
+Immune system related pathways,RELA,pyrrolidine-dithiocarbamate,NFkB pathway inhibitor,Preclinical
+Immune system related pathways,RELA,caffeic-acid-phenethyl-ester,HIV integrase inhibitor,Preclinical
+Immune system related pathways,ROCK1,SAR407899,rho associated kinase inhibitor,Phase 2
+Immune system related pathways,ROCK1,AT13148,protein kinase inhibitor,Phase 1
+Immune system related pathways,ROCK1,PD-98059,MEK inhibitor,Preclinical
+Immune system related pathways,ROCK1,KN-62,"calcium/calmodulin dependent protein kinase inhibitor, purinergic receptor antagonist",Preclinical
+Immune system related pathways,ROCK1,"4,5,6,7-tetrabromobenzotriazole",casein kinase inhibitor,Preclinical
+Immune system related pathways,ROCK1,LY294002,"DNA dependent protein kinase inhibitor, mTOR inhibitor, phosphodiesterase inhibitor, PI3K inhibitor, PLK inhibitor",Preclinical
+Immune system related pathways,ROCK1,RKI-1447,rho associated kinase inhibitor,Preclinical
+Immune system related pathways,ROCK1,SB-772077B,rho associated kinase inhibitor,Preclinical
+Immune system related pathways,ROCK1,GSK269962,rho associated kinase inhibitor,Preclinical
+Immune system related pathways,ROCK1,SB-203580,p38 MAPK inhibitor,Preclinical
+Immune system related pathways,ROCK1,GSK429286A,rho associated kinase inhibitor,Preclinical
+Immune system related pathways,ROCK1,hydroxyfasudil,rho associated kinase inhibitor,Preclinical
+Immune system related pathways,ROCK1,SB-747651A,kinase inhibitor,Preclinical
+Immune system related pathways,ROCK1,OXA-06,rho associated kinase inhibitor,Preclinical
+Immune system related pathways,ROCK1,AS-1892802,rho associated kinase inhibitor,Preclinical
+Immune system related pathways,ROCK1,bisindolylmaleimide-IX,PKC inhibitor,Preclinical
+Immune system related pathways,ROCK1,U-0126,MEK inhibitor,Preclinical
+Immune system related pathways,ROCK1,SB-202190,p38 MAPK inhibitor,Preclinical
+Immune system related pathways,ROCK1,ripasudil,rho associated kinase inhibitor,Launched
+Immune system related pathways,ROCK1,fasudil,rho associated kinase inhibitor,Launched
+Immune system related pathways,ROCK1,Y-27632,rho associated kinase inhibitor,Preclinical
+Immune system related pathways,ROCK1,Y-39983,rho associated kinase inhibitor,Phase 2
+Immune system related pathways,RORC,SR-1078,retinoid receptor agonist,Preclinical
+Immune system related pathways,RORC,SR-2211,retinoid receptor inverse agonist,Preclinical
+Immune system related pathways,RORC,tretinoin,"retinoid receptor agonist, retinoid receptor ligand",Launched
+Immune system related pathways,RPS6KA1,purvalanol-A,CDK inhibitor,Preclinical
+Immune system related pathways,RPS6KA1,BI-D1870,ribosomal protein inhibitor,Preclinical
+Immune system related pathways,RPS6KA1,BRD7389,ribosomal protein inhibitor,Preclinical
+Immune system related pathways,RPS6KA1,GSK1838705A,insulin growth factor receptor inhibitor,Preclinical
+Immune system related pathways,RPS6KA1,dorsomorphin,AMPK inhibitor,Preclinical
+Immune system related pathways,RPS6KA5,SB-747651A,kinase inhibitor,Preclinical
+Immune system related pathways,RXRA,retinol,retinoid receptor ligand,Launched
+Immune system related pathways,RXRA,AGN-194310,retinoid receptor antagonist,Phase 3
+Immune system related pathways,RXRA,peretinoin,retinoid receptor agonist,Phase 3
+Immune system related pathways,RXRA,acitretin,retinoid receptor agonist,Launched
+Immune system related pathways,RXRA,PA-452,retinoid receptor antagonist,Preclinical
+Immune system related pathways,RXRA,BMS-649,retinoid receptor agonist,Preclinical
+Immune system related pathways,RXRA,bexarotene,retinoid receptor agonist,Launched
+Immune system related pathways,RXRA,GW-9662,PPAR receptor antagonist,Preclinical
+Immune system related pathways,RXRA,adapalene,retinoid receptor agonist,Launched
+Immune system related pathways,SMAD2,dexfosfoserine,membrane integrity inhibitor,Preclinical
+Immune system related pathways,SPHK1,SKI-II,sphingosine kinase inhibitor,Preclinical
+Immune system related pathways,SPHK1,idronoxil,XIAP inhibitor,Phase 3
+Immune system related pathways,SRC,XL228,"Abl kinase inhibitor, insulin growth factor receptor inhibitor, SRC inhibitor",Phase 1
+Immune system related pathways,SRC,PP-2,SRC inhibitor,Preclinical
+Immune system related pathways,SRC,citric-acid,coagulation factor inhibitor,Preclinical
+Immune system related pathways,SRC,PD-166285,SRC inhibitor,Preclinical
+Immune system related pathways,SRC,bosutinib,"Abl kinase inhibitor, Bcr-Abl kinase inhibitor, SRC inhibitor",Launched
+Immune system related pathways,SRC,KB-SRC-4,SRC inhibitor,Preclinical
+Immune system related pathways,SRC,vandetanib,"EGFR inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,SRC,tolimidone,SRC activator,Phase 2
+Immune system related pathways,SRC,ponatinib,"Bcr-Abl kinase inhibitor, FLT3 inhibitor, PDGFR tyrosine kinase receptor inhibitor",Launched
+Immune system related pathways,SRC,dorsomorphin,AMPK inhibitor,Preclinical
+Immune system related pathways,SRC,"3,4-methylenedioxy-beta-nitrostyrene","SRC inhibitor, SYK inhibitor",Preclinical
+Immune system related pathways,SRC,1-naphthyl-PP1,SRC inhibitor,Preclinical
+Immune system related pathways,SRC,ENMD-2076,"Aurora kinase inhibitor, FLT3 inhibitor, VEGFR inhibitor",Phase 2
+Immune system related pathways,SRC,TG-100801,"SRC inhibitor, VEGFR inhibitor",Phase 2
+Immune system related pathways,SRC,dasatinib,"Bcr-Abl kinase inhibitor, ephrin inhibitor, KIT inhibitor, PDGFR tyrosine kinase receptor inhibitor, SRC inhibitor, tyrosine kinase inhibitor",Launched
+Immune system related pathways,SRC,TG-100572,"SRC inhibitor, VEGFR inhibitor",Preclinical
+Immune system related pathways,SRC,PD-168393,EGFR inhibitor,Preclinical
+Immune system related pathways,SRC,AZM-475271,SRC inhibitor,Preclinical
+Immune system related pathways,SRC,purvalanol-A,CDK inhibitor,Preclinical
+Immune system related pathways,SRC,PP-121,protein tyrosine kinase inhibitor,Preclinical
+Immune system related pathways,SRC,KX2-391,"SRC inhibitor, tubulin polymerization inhibitor",Phase 3
+Immune system related pathways,SRC,SB-203580,p38 MAPK inhibitor,Preclinical
+Immune system related pathways,SRC,WH-4-023,SRC inhibitor,Preclinical
+Immune system related pathways,STAT1,CKD-712,NFkB pathway inhibitor,Phase 1
+Immune system related pathways,TGFB1,D-4476,TGF beta receptor inhibitor,Preclinical
+Immune system related pathways,TGFB1,F351,TGF beta receptor inhibitor,Phase 2
+Immune system related pathways,TGFBR1,EW-7197,TGF beta receptor inhibitor,Phase 2
+Immune system related pathways,TGFBR1,repsox,TGF beta receptor inhibitor,Preclinical
+Immune system related pathways,TGFBR1,QX-314,sodium channel blocker,Preclinical
+Immune system related pathways,TGFBR1,SIS3,serine/threonine kinase inhibitor,Preclinical
+Immune system related pathways,TGFBR1,LY364947,"p38 MAPK inhibitor, TGF beta receptor inhibitor",Preclinical
+Immune system related pathways,TGFBR1,SB-505124,ALK tyrosine kinase receptor inhibitor,Preclinical
+Immune system related pathways,TGFBR1,GW-788388,ALK tyrosine kinase receptor inhibitor,Preclinical
+Immune system related pathways,TGFBR1,R-268712,serine/threonine kinase inhibitor,Preclinical
+Immune system related pathways,TGFBR1,SD-208,TGF beta receptor inhibitor,Preclinical
+Immune system related pathways,TGFBR1,LY2109761,TGF beta receptor inhibitor,Preclinical
+Immune system related pathways,TGFBR1,SB-431542,TGF beta receptor inhibitor,Preclinical
+Immune system related pathways,TGFBR1,SB-525334,TGF beta receptor inhibitor,Preclinical
+Immune system related pathways,TGFBR2,ITD-1,TGF beta receptor inhibitor,Preclinical
+Immune system related pathways,TGFBR2,LY2109761,TGF beta receptor inhibitor,Preclinical
+Immune system related pathways,TLR2,CU-T12-9,toll-like receptor agonist,Preclinical
+Immune system related pathways,TLR7,RWJ-21757,toll-like receptor agonist,Phase 2
+Immune system related pathways,TLR7,docosanol,lipase clearing factor inhibitor,Launched
+Immune system related pathways,TLR7,hydroxychloroquine,antimalarial agent,Launched
+Immune system related pathways,TLR7,GS-9620,toll-like receptor agonist,Phase 2
+Immune system related pathways,TLR7,"5-amino-3-D-ribofuranosylthiazolo[4,5-d]pyrimidin-2,7(3H,6H)-dione",,Preclinical
+Immune system related pathways,TLR7,resiquimod,toll-like receptor agonist,Phase 3
+Immune system related pathways,TLR7,DSR-6434,toll-like receptor agonist,Preclinical
+Immune system related pathways,TLR7,imiquimod,"interferon inducer, toll-like receptor agonist",Launched
+Immune system related pathways,TNFSF13B,citric-acid,coagulation factor inhibitor,Preclinical
+Immune system related pathways,TYK2,ruxolitinib,JAK inhibitor,Launched
+Immune system related pathways,TYK2,filgotinib,JAK inhibitor,Phase 3
+Immune system related pathways,TYK2,fedratinib,"FLT3 inhibitor, JAK inhibitor",Launched
+Immune system related pathways,VEGFA,trometamol,,Launched
+Immune system related pathways,VEGFA,vandetanib,"EGFR inhibitor, RET tyrosine kinase inhibitor, VEGFR inhibitor",Launched
+Immune system related pathways,VEGFA,pidolic-acid,,Launched
+Gene list,ABCG2,KS-176,BCRP inhibitor,Preclinical
+Gene list,ABCG2,cyclovalone,breast cancer resistance protein inhibitor,Launched
+Gene list,ACLY,bempedoic-acid,AMPK inhibitor,Launched
+Gene list,ACTB,cytochalasin-B,microtubule inhibitor,Phase 2
+Gene list,ACVR1,DMH1,ALK tyrosine kinase receptor inhibitor,Preclinical
+Gene list,ADCY5,NKY-80,adenylyl cyclase inhibitor,Preclinical
+Gene list,ADORA2A,ANR-94,adenosine receptor antagonist,Preclinical
+Gene list,ADORA2A,tozadenant,adenosine receptor antagonist,Phase 3
+Gene list,ADORA2A,Lu-AA-47070,adenosine receptor antagonist,Phase 2
+Gene list,ADORA2A,T-62,adenosine receptor modulator,Phase 2
+Gene list,ADORA2A,TC-G-1004,adenosine receptor antagonist,Preclinical
+Gene list,ADORA2A,efaroxan,adrenergic receptor antagonist,Phase 2
+Gene list,ADORA2A,CV-1808,adenosine receptor agonist,Preclinical
+Gene list,ADRA1A,synephrine,adrenergic receptor agonist,Launched
+Gene list,ADRA1A,naftopidil,adrenergic receptor antagonist,Launched
+Gene list,ADRA1A,3-MPPI,adrenergic receptor ligand,Preclinical
+Gene list,ADRA1A,bunazosin,adrenergic receptor antagonist,Launched
+Gene list,ADRA1A,metaraminol,adrenergic receptor agonist,Launched
+Gene list,ADRA1A,Rec-15/2615,adrenergic receptor antagonist,Phase 2
+Gene list,ADRA1A,buflomedil,"adrenergic receptor antagonist, calcium channel blocker",Launched
+Gene list,ADRA1A,adrenalone,adrenergic receptor agonist,Launched
+Gene list,ADRA1A,cirazoline,adrenergic receptor agonist,Preclinical
+Gene list,ADRA1A,anisodamine,lipid peroxidase inhibitor,Phase 3
+Gene list,ADRA1A,nicergoline,adrenergic receptor antagonist,Launched
+Gene list,ADRA1A,stobadine,adrenergic receptor antagonist,Phase 2
+Gene list,ADRA1A,niguldipine-(S)-(+),adrenergic receptor antagonist,Preclinical
+Gene list,ADRA1A,BE-2254,adrenergic receptor antagonist,Phase 2
+Gene list,ADRA1A,A61603,adrenergic receptor agonist,Preclinical
+Gene list,ADRA1A,metazosin,adrenergic receptor antagonist,Phase 2
+Gene list,ADRA1A,2-PMDQ,adrenergic receptor antagonist,Preclinical
+Gene list,ADRA1B,AH11110,adrenergic receptor ligand,Preclinical
+Gene list,ALPL,levamisole,acetylcholine receptor agonist,Withdrawn
+Gene list,APEX1,methoxyamine,DNA repair enzyme inhibitor,Phase 2
+Gene list,AR,pyrvinium-pamoate,androgen receptor antagonist,Launched
+Gene list,AR,RU-58841,androgen receptor antagonist,Phase 2
+Gene list,AR,GLPG0492-R-enantiomer,androgen receptor modulator,Phase 1
+Gene list,AR,CB-03-01,androgen receptor antagonist,Phase 3
+Gene list,AR,ostarine,androgen receptor modulator,Phase 3
+Gene list,AR,GLPG0492,androgen receptor modulator,Phase 1
+Gene list,AR,APC-100,"androgen receptor antagonist, anti-inflammatory agent",Phase 1/Phase 2
+Gene list,AR,LY2452473,androgen receptor modulator,Phase 2
+Gene list,AR,ASC-J9,androgen receptor enhancer,Phase 2
+Gene list,AR,AZD3514,androgen receptor modulator,Phase 1
+Gene list,AR,dromostanolone-propionate,androgen receptor modulator,Launched
+Gene list,AR,cortodoxone,androgen receptor antagonist,Phase 3
+Gene list,AR,bicalutamide,androgen receptor antagonist,Launched
+Gene list,AR,enzalutamide,androgen receptor antagonist,Launched
+Gene list,AR,2-hydroxyflutamide,androgen receptor antagonist,Phase 2
+Gene list,AR,andarine,androgen receptor modulator,Phase 1
+Gene list,AR,nilutamide,androgen receptor antagonist,Launched
+Gene list,AR,eugenol,androgen receptor antagonist,Launched
+Gene list,AR,MK-0773,androgen receptor modulator,Phase 2
+Gene list,AR,epitiostanol,androgen receptor agonist,Launched
+Gene list,AR,darolutamide,androgen receptor antagonist,Launched
+Gene list,AR,PS178990,androgen receptor modulator,Phase 1
+Gene list,ATP2A2,gallopamil,L-type calcium channel blocker,Launched
+Gene list,ATP5A1,oligomycin-A,"ATP synthase inhibitor, ATPase inhibitor",Preclinical
+Gene list,ATP5F1,BTB06584,ATPase inhibitor,Preclinical
+Gene list,ATR,schisandrin-B,antioxidant,Preclinical
+Gene list,ATR,AZD6738,ATR kinase inhibitor,Phase 2
+Gene list,ATR,VE-821,ATR kinase inhibitor,Preclinical
+Gene list,AURKB,TAK-901,Aurora kinase inhibitor,Phase 1
+Gene list,AURKB,barasertib-HQPA,Aurora kinase inhibitor,Phase 2/Phase 3
+Gene list,AURKB,hesperadin,Aurora kinase inhibitor,Preclinical
+Gene list,BACE1,TC1,beta-secretase inhibitor,Preclinical
+Gene list,BACE1,AZD3839,beta-secretase inhibitor,Phase 1
+Gene list,BACE1,compound-w,beta-secretase inhibitor,Preclinical
+Gene list,BACE1,LY2886721,beta-secretase inhibitor,Phase 1/Phase 2
+Gene list,BACE1,LY2811376,beta-secretase inhibitor,Phase 1
+Gene list,BACE1,CTS21166,beta-secretase inhibitor,Phase 1
+Gene list,BDKRB2,icatibant-acetate,bradykinin receptor antagonist,Launched
+Gene list,BDKRB2,WIN-64338,bradykinin receptor antagonist,Preclinical
+Gene list,BIRC5,YM-155,survivin inhibitor,Phase 2
+Gene list,CA14,trientine,chelating agent,Launched
+Gene list,CACNA1C,azelnidipine,calcium channel blocker,Launched
+Gene list,CACNA1C,BAY-K-8644-(s)-(-),L-type calcium channel activator,Preclinical
+Gene list,CACNA1C,pranidipine,calcium channel blocker,Phase 2
+Gene list,CACNA1C,pinaverium,T-type calcium channel blocker,Launched
+Gene list,CACNA1C,lacidipine,calcium channel blocker,Launched
+Gene list,CACNA1C,otilonium,acetylcholine receptor antagonist,Launched
+Gene list,CALCA,MK-3207,calcitonin antagonist,Phase 2
+Gene list,CALCA,SB-268262,calcitonin antagonist,Preclinical
+Gene list,CALCA,rimegepant,calcitonin antagonist,Launched
+Gene list,CALM1,zaldaride,calmodulin antagonist,Phase 3
+Gene list,CDC42,ZCL-278,CDC inhibitor,Preclinical
+Gene list,CDC42,casin,GTPase inhibitor,Preclinical
+Gene list,CDC42,ML141,GTPase inhibitor,Preclinical
+Gene list,CDH2,exherin,cadherin antagonist,Phase 2
+Gene list,CDIPT,inositol,insulin sensitizer,Launched
+Gene list,CHRM3,diphemanil,acetylcholine receptor antagonist,Launched
+Gene list,CHRM3,zamifenacin,acetylcholine receptor antagonist,Phase 3
+Gene list,CHRM3,tarafenacin,acetylcholine receptor antagonist,Phase 2
+Gene list,CHRM3,DAU-5884,acetylcholine receptor antagonist,Preclinical
+Gene list,CHRM3,cevimeline,acetylcholine receptor agonist,Launched
+Gene list,CHRM3,5-hydroxymethyl-tolterodine,acetylcholine receptor antagonist,Phase 1
+Gene list,CSNK1A1,DRF053-(R),CDK inhibitor,Preclinical
+Gene list,CSNK2A1,emodin,11-beta hydroxysteroid dehydrogenase inhibitor,Preclinical
+Gene list,CSNK2A1,TTP-22,casein kinase inhibitor,Preclinical
+Gene list,CTSB,loxistatin-acid,cysteine peptidase inhibitor,Preclinical
+Gene list,CTSC,bipenamol,dipeptidyl peptidase inhibitor,Phase 2
+Gene list,CTSK,balicatib,cathepsin inhibitor,Phase 2
+Gene list,CTSK,odanacatib,cathepsin inhibitor,Phase 3
+Gene list,CXCR3,NBI-74330-(+/-),CC chemokine receptor antagonist,Preclinical
+Gene list,CXCR3,dioscin,apoptosis stimulant,Preclinical
+Gene list,CXCR3,AMG-487-(+/-),CC chemokine receptor antagonist,Phase 2
+Gene list,CYP1A2,tenofovir-disoproxil,nucleoside reverse transcriptase inhibitor,Launched
+Gene list,DMD,ataluren,"CFTR channel agonist, dystrophin stimulant",Launched
+Gene list,DNMT1,flucytosine,other antifungal,Launched
+Gene list,DNMT1,triclabendazole,microtubule inhibitor,Launched
+Gene list,DNMT1,dimercaptosuccinic-acid,chelating agent,Launched
+Gene list,DNMT1,triclosan,antibacterial agent,Launched
+Gene list,DPYD,gimeracil,dihydropyrimidine dehydrogenase inhibitor,Launched
+Gene list,DRD2,3'-fluorobenzylspiperone,dopamine receptor ligand,Preclinical
+Gene list,DRD2,bromperidol,dopamine receptor antagonist,Launched
+Gene list,DRD2,amisulpride,dopamine receptor antagonist,Launched
+Gene list,DRD2,trimethobenzamide,histamine receptor antagonist,Launched
+Gene list,DRD2,carmoxirole,dopamine receptor agonist,Phase 2
+Gene list,DRD2,preclamol,dopamine receptor agonist,Phase 2
+Gene list,DRD2,PAOPA,dopamine receptor modulator,Preclinical
+Gene list,DRD2,brexpiprazole,dopamine receptor partial agonist,Launched
+Gene list,DRD2,afalanine,dopamine receptor agonist,Phase 3
+Gene list,DRD2,quinagolide,dopamine receptor agonist,Launched
+Gene list,DRD2,JNJ-37822681,dopamine receptor antagonist,Phase 2
+Gene list,DRD2,sumanirole,dopamine receptor agonist,Phase 3
+Gene list,DRD2,bromopride,dopamine receptor antagonist,Launched
+Gene list,DRD2,benperidol,dopamine receptor antagonist,Launched
+Gene list,DRD2,PD-168077,dopamine receptor agonist,Preclinical
+Gene list,EGLN1,daprodustat,hypoxia inducible factor inhibitor,Phase 3
+Gene list,EIF2A,sal003,eukaryotic translation initiation factor inhibitor,Preclinical
+Gene list,EIF2AK4,AMG-PERK-44,PERK inhibitor,Preclinical
+Gene list,EIF2S1,salubrinal,eukaryotic translation initiation factor inhibitor,Preclinical
+Gene list,EIF4E,4EGI-1,protein synthesis inhibitor,Preclinical
+Gene list,F10,apixaban,coagulation factor inhibitor,Launched
+Gene list,F10,edoxaban,coagulation factor inhibitor,Launched
+Gene list,F10,otamixaban,coagulation factor inhibitor,Phase 3
+Gene list,F10,rivaroxaban,coagulation factor inhibitor,Launched
+Gene list,FDFT1,SQ-109,bacterial cell wall synthesis inhibitor,Phase 3
+Gene list,FGFR4,BLU9931,FGFR inhibitor,Preclinical
+Gene list,FOXM1,thiostrepton,"FOXM1 inhibitor, protein synthesis inhibitor",Launched
+Gene list,G6PD,epiandrosterone,steroid,Preclinical
+Gene list,G6PD,RRx-001,glucose 6-phosphate dehydrogenase inhibitor,Phase 3
+Gene list,GBF1,golgicide-A,ARF inhibitor,Preclinical
+Gene list,GHSR,YIL-781,ghrelin receptor antagonist,Preclinical
+Gene list,GHSR,PF-05190457,growth hormone secretagogue receptor inverse agonist,Phase 2
+Gene list,GHSR,U-75799E,growth hormone releasing factor agonist,Phase 1
+Gene list,GHSR,tabimorelin,growth hormone secretagogue receptor agonist,Phase 2
+Gene list,GHSR,anamorelin,growth hormone secretagogue receptor agonist,Phase 3
+Gene list,GLO1,delphinidin,membrane permeability inhibitor,Phase 2
+Gene list,GUCY1A3,molsidomine,guanylate cyclase stimulant,Launched
+Gene list,HIF1A,melphalan-n-oxide,hypoxia inducible factor inhibitor,Phase 1
+Gene list,HIF1A,acriflavinium,hypoxia inducible factor inhibitor,Launched
+Gene list,HIF1A,bakuchiol,DNA polymerase inhibitor,Phase 2
+Gene list,HIF1A,acriflavine,hypoxia inducible factor inhibitor,Launched
+Gene list,HIF1A,BAY-87-2243,hypoxia inducible factor inhibitor,Phase 1
+Gene list,HIF1A,ML228,hypoxia inducible factor activator,Preclinical
+Gene list,HTR1B,CP-94253,serotonin receptor agonist,Preclinical
+Gene list,HTR1B,anpirtoline,serotonin receptor agonist,Phase 1
+Gene list,HTR1B,NAS-181,serotonin receptor antagonist,Preclinical
+Gene list,HTR2C,desmethylclozapine,acetylcholine receptor agonist,Phase 2
+Gene list,HTR2C,WAY-629,serotonin receptor agonist,Preclinical
+Gene list,HTR2C,WAY-161503,serotonin receptor agonist,Preclinical
+Gene list,IDH1,AGI-5198,isocitrate dehydrogenase inhibitor,Preclinical
+Gene list,IDH1,enasidenib,isocitrate dehydrogenase inhibitor,Launched
+Gene list,IDH1,ivosidenib,isocitrate dehydrogenase inhibitor,Launched
+Gene list,IDH2,AGI-6780,isocitrate dehydrogenase inhibitor,Preclinical
+Gene list,IMPA1,L-690330,inositol monophosphatase inhibitor,Preclinical
+Gene list,JAK1,itacitinib,JAK inhibitor,Phase 3
+Gene list,JAK1,solcitinib,JAK inhibitor,Phase 1
+Gene list,KCND3,NS-5806,voltage-gated potassium channel activator,Preclinical
+Gene list,KCNH2,tecastemizole,histamine receptor antagonist,Phase 3
+Gene list,KCNH2,AZD5438,CDK inhibitor,Phase 1
+Gene list,KCNH2,betrixaban,coagulation factor inhibitor,Launched
+Gene list,KCNH2,PD-118057,potassium channel activator,Preclinical
+Gene list,KCNH2,ginsenoside-RE3,"angiogenesis inhibitor, apoptosis stimulant",Launched
+Gene list,KCNH2,NS-3623,voltage-gated potassium channel activator,Preclinical
+Gene list,KEAP1,dimethyl-fumarate,"nuclear factor erythroid derived, like (NRF2) activator",Launched
+Gene list,LDHA,GSK2837808A,lactate dehydrogenase inhibitor,Preclinical
+Gene list,LDHA,NHI-2,lactate dehydrogenase inhibitor,Preclinical
+Gene list,LTF,parecoxib,cyclooxygenase inhibitor,Launched
+Gene list,MAOA,pirlindole,monoamine oxidase inhibitor,Launched
+Gene list,MAOA,BW-616U,monoamine oxidase inhibitor,Preclinical
+Gene list,MAOA,clorgiline,monoamine oxidase inhibitor,Phase 2
+Gene list,MAOA,tetrindole,monoamine oxidase inhibitor,Phase 3
+Gene list,MAOA,eprobemide,monoamine oxidase inhibitor,Launched
+Gene list,MAOB,milacemide,monoamine oxidase inhibitor,Phase 3
+Gene list,MAOB,safinamide,"dopamine reuptake inhibitor, glutamate inhibitor, monoamine oxidase inhibitor",Launched
+Gene list,MAOB,lazabemide,monoamine oxidase inhibitor,Phase 3
+Gene list,MAPK1,VX-11e,MAP kinase inhibitor,Preclinical
+Gene list,MAPK3,CID-5458317,MAP kinase phosphatase inhibitor,Preclinical
+Gene list,MYBPC3,omecamtiv-mecarbil,cardiac myosin activator,Phase 3
+Gene list,NFE2L2,RTA-408,nitric oxide production inhibitor,Phase 2
+Gene list,NFE2L2,NK-252,"nuclear factor erythroid derived, like (NRF2) activator",Preclinical
+Gene list,NFE2L2,sulforaphane,"anticancer agent, aryl hydrocarbon receptor antagonist",Phase 2
+Gene list,NR5A1,SID-7969543,steroidogenic factor antagonist,Preclinical
+Gene list,OXCT1,thiomersal,other antibiotic,Launched
+Gene list,P2RX3,Ro-3,purinergic receptor antagonist,Preclinical
+Gene list,P2RX3,A-317491,purinergic receptor antagonist,Preclinical
+Gene list,PDE5A,exisulind,phosphodiesterase inhibitor,Phase 3
+Gene list,PDE5A,MY-5445,"phosphodiesterase inhibitor, platelet aggregation inhibitor",Preclinical
+Gene list,PDE5A,trequinsin,phosphodiesterase inhibitor,Phase 1
+Gene list,PDE5A,mirodenafil,phosphodiesterase inhibitor,Launched
+Gene list,PDE5A,icariin,phosphodiesterase inhibitor,Phase 3
+Gene list,PDE5A,T-0156,phosphodiesterase inhibitor,Preclinical
+Gene list,PDE5A,PF-03049423,phosphodiesterase inhibitor,Phase 2
+Gene list,PDE5A,icaritin,PPAR receptor antagonist,Phase 3
+Gene list,PDE5A,avanafil,phosphodiesterase inhibitor,Launched
+Gene list,PDHA1,CPI-613,pyruvate dehydrogenase inhibitor,Phase 3
+Gene list,PDK1,AZD7545,pyruvate dehydrogenase kinase inhibitor,Phase 1
+Gene list,PGD,gadopentetic-acid,contrast agent,Launched
+Gene list,PGRMC1,SM-21,sigma receptor antagonist,Preclinical
+Gene list,PIK3CA,GDC-0349,Pim kinase inhibitor,Phase 1
+Gene list,PIK3CA,A66,PI3K inhibitor,Preclinical
+Gene list,PIK3CA,MLN1117,PI3K inhibitor,Phase 2
+Gene list,PIK3CA,taselisib,PI3K inhibitor,Phase 3
+Gene list,PLA2G4A,PACOCF3,phospholipase inhibitor,Preclinical
+Gene list,PLK1,GSK461364,PLK inhibitor,Phase 1
+Gene list,PLK1,volasertib,PLK inhibitor,Phase 3
+Gene list,PLK1,rigosertib,"cell cycle inhibitor, PLK inhibitor",Phase 3
+Gene list,PLK1,TAK-960,PLK inhibitor,Phase 1
+Gene list,PLK1,HMN-214,PLK inhibitor,Phase 1
+Gene list,PLK1,SBE-13,PLK inhibitor,Preclinical
+Gene list,POLR2A,dactinomycin,RNA polymerase inhibitor,Launched
+Gene list,PRMT5,HLCL-61,protein arginine N-methyltransferase inhibitor,Preclinical
+Gene list,PRMT5,EPZ015666,protein arginine N-methyltransferase inhibitor,Preclinical
+Gene list,PTGER1,limaprost-alfadex,prostanoid receptor agonist,Launched
+Gene list,PTGER1,ONO-8130,prostanoid receptor antagonist,Preclinical
+Gene list,PTGER1,SC-51089,prostanoid receptor antagonist,Preclinical
+Gene list,PTGER1,SC-19220,prostanoid receptor antagonist,Preclinical
+Gene list,PTGS2,vedaprofen,anti-inflammatory agent,Launched
+Gene list,PTGS2,azapropazone,cyclooxygenase inhibitor,Withdrawn
+Gene list,PTGS2,loxoprofen,"cyclooxygenase inhibitor, prostanoid receptor antagonist",Launched
+Gene list,PTGS2,aceclofenac,prostanoid receptor antagonist,Launched
+Gene list,PTGS2,NO-ASA,cyclooxygenase inhibitor,Phase 2
+Gene list,PTGS2,propacetamol,cyclooxygenase inhibitor,Launched
+Gene list,PTGS2,etodolac,cyclooxygenase inhibitor,Launched
+Gene list,PTGS2,deracoxib,cyclooxygenase inhibitor,Launched
+Gene list,PTGS2,DUP-697,cyclooxygenase inhibitor,Phase 1
+Gene list,PTGS2,firocoxib,cyclooxygenase inhibitor,Launched
+Gene list,PTGS2,carprofen,cyclooxygenase inhibitor,Launched
+Gene list,PTGS2,iguratimod,"cyclooxygenase inhibitor, NFkB pathway inhibitor",Launched
+Gene list,PTGS2,SC-236,cyclooxygenase inhibitor,Preclinical
+Gene list,PTGS2,pterostilbene,"cyclooxygenase inhibitor, PPAR receptor agonist",Phase 2/Phase 3
+Gene list,PTGS2,asaraldehyde,cyclooxygenase inhibitor,Preclinical
+Gene list,PTGS2,FK-3311,cyclooxygenase inhibitor,Phase 2
+Gene list,PTGS2,etoricoxib,cyclooxygenase inhibitor,Launched
+Gene list,PTGS2,ginsenoside-C-K,"NFkB pathway inhibitor, nitric oxide synthase inhibitor",Phase 1
+Gene list,PTGS2,tiaprofenic-acid,cyclooxygenase inhibitor,Launched
+Gene list,PTGS2,rutaecarpine,cyclooxygenase inhibitor,Preclinical
+Gene list,PTPMT1,alexidine,phosphatidylglycerophosphatase inhibitor,Preclinical
+Gene list,PYGM,sodium-monofluorophosphate,,Launched
+Gene list,PYGM,asiatic-acid,apoptosis stimulant,Preclinical
+Gene list,PYGM,maribavir,"cytomegalovirus inhibitor, protein kinase inhibitor",Phase 3
+Gene list,PYGM,NSC-4644,"ACAT inhibitor, sterol regulatory element binding protein (SREBP) inhibitor",Phase 2
+Gene list,RELA,NFKB-activation-inhibitor-II,NFkB pathway inhibitor,Preclinical
+Gene list,RELA,BAY-11-7082,NFkB pathway inhibitor,Preclinical
+Gene list,RELA,triptolide,RNA polymerase inhibitor,Phase 3
+Gene list,RELA,caffeic-acid-phenethyl-ester,HIV integrase inhibitor,Preclinical
+Gene list,RIPK2,necrostatin-2,"necroptosis inhibitor, RIPK inhibitor",Preclinical
+Gene list,ROCK1,SAR407899,rho associated kinase inhibitor,Phase 2
+Gene list,ROCK1,GSK429286A,rho associated kinase inhibitor,Preclinical
+Gene list,ROCK1,AS-1892802,rho associated kinase inhibitor,Preclinical
+Gene list,RPS6KB1,PF-4708671,ribosomal protein inhibitor,Preclinical
+Gene list,RPS6KB1,LY2584702,ribosomal protein inhibitor,Phase 1
+Gene list,RXRA,PA-452,retinoid receptor antagonist,Preclinical
+Gene list,RXRA,BMS-649,retinoid receptor agonist,Preclinical
+Gene list,RXRA,peretinoin,retinoid receptor agonist,Phase 3
+Gene list,SLC12A5,VU0240551,potassium/chloride cotransporter inhibitor,Preclinical
+Gene list,SLC37A4,chlorogenic-acid,antioxidant,Launched
+Gene list,SLC9A1,zoniporide,sodium/hydrogen exchanger inhibitor,Phase 3
+Gene list,SLC9A1,cariporide,sodium/hydrogen exchanger inhibitor,Phase 3
+Gene list,SMYD2,AZ505,histone lysine methyltransferase inhibitor,Preclinical
+Gene list,SNCA,SMER-28,autophagy inducer,Preclinical
+Gene list,SOAT1,YM-750,ACAT inhibitor,Phase 1
+Gene list,SORT1,AF38469,sortilin inhibitor,Preclinical
+Gene list,STAT3,WP1066,STAT inhibitor,Phase 1
+Gene list,STAT3,ochromycinone,STAT inhibitor,Phase 1
+Gene list,STAT3,napabucasin,STAT inhibitor,Phase 3
+Gene list,STAT3,STAT3-inhibitor-VI,STAT inhibitor,Preclinical
+Gene list,STAT3,alantolactone,"apoptosis stimulant, STAT inhibitor",Preclinical
+Gene list,STAT3,meisoindigo,STAT inhibitor,Phase 3
+Gene list,STAT3,cryptotanshinone,"acetylcholinesterase inhibitor, STAT inhibitor",Preclinical
+Gene list,STAT3,niclosamide,"DNA replication inhibitor, STAT inhibitor",Launched
+Gene list,TACR1,netupitant,tachykinin antagonist,Launched
+Gene list,TACR1,maropitant,neurokinin receptor antagonist,Launched
+Gene list,TACR1,L-733060,tachykinin antagonist,Preclinical
+Gene list,TACR1,SR-140333,neurokinin receptor antagonist,Phase 2
+Gene list,TACR1,fosaprepitant-dimeglumine,tachykinin antagonist,Launched
+Gene list,TACR1,AV-608,tachykinin antagonist,Phase 2
+Gene list,TACR1,"[sar9,met(o2)11]-substance-p",tachykinin antagonist,Preclinical
+Gene list,TACR1,CP-99994,tachykinin antagonist,Phase 2
+Gene list,TACR1,L-760735,tachykinin antagonist,Preclinical
+Gene list,TACR1,aprepitant,tachykinin antagonist,Launched
+Gene list,TACR1,SDZ-NKT-343,tachykinin antagonist,Phase 1
+Gene list,TGM2,GK921,transglutaminase inhibitor,Preclinical
+Gene list,TGM2,LDN-27219,tissue transglutaminase inhibitor,Preclinical
+Gene list,TH,metirosine,tyrosine hydroxylase inhibitor,Launched
+Gene list,TNFSF10,ONC201,"AKT inhibitor, MAP kinase inhibitor",Phase 2
+Gene list,TNK2,AIM-100,tyrosine kinase inhibitor,Preclinical
+Gene list,TRPM8,TC-I-2000,transient receptor potential channel antagonist,Preclinical
+Gene list,TRPM8,RQ-00203078,transient receptor potential channel antagonist,Preclinical
+Gene list,TRPM8,M8-B,transient receptor potential channel antagonist,Preclinical
+Gene list,TRPM8,TC-I-2014,transient receptor potential channel antagonist,Preclinical
+Gene list,TRPV4,HC-067047,transient receptor potential channel antagonist,Preclinical
+Gene list,TRPV4,RN-1734,TRPV antagonist,Preclinical
+Gene list,TRPV4,RN-1747,TRPV agonist,Preclinical
+Gene list,TRPV4,GSK2193874,transient receptor potential channel antagonist,Preclinical
+Gene list,UGT1A6,deferiprone,chelating agent,Launched
+Gene list,USP1,ML323,ubiquitin specific protease inhibitor,Preclinical
+Gene list,USP14,IU1,ubiquitin C-terminal hydrolase inhibitor,Preclinical
+Gene list,UTS2R,SB-657510,urotensin receptor antagonist,Preclinical
+Gene list,UTS2R,palosuran,urotensin receptor antagonist,Phase 2
+Gene list,UTS2R,AC-7954-(+/-),urotensin receptor agonist,Preclinical
+Gene list,UTS2R,SB-706375,urotensin receptor antagonist,Preclinical
+Gene list,UTS2R,GSK1562590,urotensin receptor antagonist,Preclinical
+Gene list,VDAC2,erastin,ion channel antagonist,Preclinical
+Gene list,WEE1,PD-407824,PKC inhibitor,Preclinical
+Gene list,WEE1,MK-1775,WEE1 kinase inhibitor,Phase 2
